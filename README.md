@@ -4,7 +4,7 @@ Module 1 - Basic Visualization Tools
 
         Bar Charts
         Histograms
-         Pie Charts
+        Pie Charts
 
 Module 2 - Basic Visualization Tools Continued
 
